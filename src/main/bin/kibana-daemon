@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# run kibana but in the background.
+
+/usr/share/kibana/bin/kibana &
